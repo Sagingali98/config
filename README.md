@@ -1,0 +1,2 @@
+# config
+eazybytes -config server
